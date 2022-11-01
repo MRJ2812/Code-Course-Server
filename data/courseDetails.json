@@ -1,0 +1,44 @@
+[
+    {
+        "id": "01",
+        "CourseTitle": "Javascript",
+        "courseBody": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg",
+        "CourseTopic": []
+    },
+    {
+        "id": "02",
+        "CourseTitle": "React",
+        "courseBody": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies.",
+        "image": "https://avatars.githubusercontent.com/u/6412038?s=280&v=4",
+        "CourseTopic": []
+    },
+    {
+        "id": "03",
+        "CourseTitle": "Database",
+        "courseBody": "Access Google Cloud SQL easily from almost any application on Google Cloud. Sign up now. Cloud SQL offers per-second billing and database instances are easy to stop and start. No-ops apps. Highly Scalable. Access from anywhere. Competitive pricing. Massive scale. Mix & match services.",
+        "image": "https://miro.medium.com/max/1100/1*iDcgUCw_MtRSuKLBGEaJ4Q.jpeg",
+        "CourseTopic": []
+    },
+    {
+        "id": "04",
+        "CourseTitle": "GitHub",
+        "courseBody": "Millions of developers and teams around the world choose GitKraken Client to make Git work for them. It makes Git more visual and accessible with an intuitive UI, the flexibility to switch between a GUI or a terminal, and a seamless experience across operating systems.        Integrations with GitHub, GitLab, Bitbucket, and Azure DevOps make it swift and simple to clone, fork, and add remotes. You can even create, view and manage pull requests.",
+        "image": "https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU",
+        "CourseTopic": []
+    },
+    {
+        "id": "05",
+        "CourseTitle": "HTML",
+        "courseBody": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript.",
+        "image": "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png",
+        "CourseTopic": []
+    },
+    {
+        "id": "06",
+        "CourseTitle": "CSS",
+        "courseBody": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
+        "image": "https://play-lh.googleusercontent.com/AGS-_N7RCj7IF5BsFM6keGJVWf8D4GZvh64bfOvU6OewzPb-KbUJ-47ALOCDQehRl3C6=w480-h960-rw",
+        "CourseTopic": []
+    }
+]
